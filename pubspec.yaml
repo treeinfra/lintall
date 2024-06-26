@@ -2,7 +2,7 @@ name: lintall
 description: Enable as many lint rules as possible.
 version: 0.1.0
 repository: https://github.com/treeinfra/lintall
-environment: {sdk: ^3.4.3}
+environment: {sdk: ">=3.4.3 <4.0.0"}
 topics:
   - lint
   - lint-rules
