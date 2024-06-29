@@ -89,7 +89,7 @@ linter:
     prefer_asserts_with_message: false # might make code complex
     prefer_constructors_over_static_methods: true
     prefer_double_quotes: false # conflict: prefer_single_quotes
-    prefer_expression_function_bodies: true
+    prefer_expression_function_bodies: false # might make code ugly.
     prefer_final_in_for_each: true
     prefer_final_locals: true
     prefer_final_parameters: false # conflict: avoid_final_parameters
